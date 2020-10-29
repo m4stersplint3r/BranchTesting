@@ -8,7 +8,6 @@ namespace Day14_BranchTesting
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I am a line");
-            Console.WriteLine("Splinter added me ");
         }
     }
 }
